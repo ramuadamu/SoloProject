@@ -1,0 +1,6 @@
+framework module Pods_SoloProject {
+  umbrella header "Pods-SoloProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
